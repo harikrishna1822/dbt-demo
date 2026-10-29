@@ -1,1 +1,1 @@
-# dbt-demo
+# snowflake-dbt
